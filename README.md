@@ -1,2 +1,1 @@
-# test-world
-Learning how to use GitHub
+The quick brown fox jumps over the lazy dog.
